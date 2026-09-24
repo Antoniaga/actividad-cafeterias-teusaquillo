@@ -1,0 +1,20 @@
+.env
+*.pem
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+
+# Material de clase y archivos comprimidos
+*.pdf
+*.rar
+
+# Capturas que no hacen parte de la entrega
+AWS*.png
+Extensiones*.png
+Intalación*.png
+Intalacion*.png
+Prueba_seguridad.png
+
+#Pruebas: 
+prueba_foursquare.py
+prueba_seguridad.py
